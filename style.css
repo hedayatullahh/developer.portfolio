@@ -13,6 +13,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .width{
     width: 50%;
@@ -34,4 +35,12 @@ section{
     background-image: url(imeges/top-banner.png);
     background-repeat: no-repeat;
     
+}
+.dreim{
+    background-image: url(imeges/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.right{
+    padding: 15px;
 }
